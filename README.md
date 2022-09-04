@@ -11,7 +11,7 @@ This project is for a lecture at Karlsruhe Institute of Technology. It aims at m
 Here's why this project fits so well for this:
 * The project is an interactive jupyter notebook, which makes it easy to walk through the explanations, run the code and immediately experience the change
 * The project is hosted on binder so there is no setup necessary and students can directly run the project in their browser
-* It covers a fundamental tensorflow tutorial on MNIST, including essential validation approaches
+* It covers a fundamental tensorflow tutorial on generative adversarial neural networks on the mnist-dataset. In this tutorial we create a network, that recreates the numbers from the mnist dataset and a desriminator that tries to detect the fake numbers. 
 
 Of course, no one project will serve all levels of expertice since your needs may be different. This is an attempt to kickstart rookies. You may also contribute or suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this project so far! You started your own deep learning projects and wonder 'why does my neural network not learn?' - here are my [coffee table solutions](https://www.amazon.de/dp/B09QRGWWZP) for you.
 
@@ -30,13 +30,13 @@ Of course, no one project will serve all levels of expertice since your needs ma
 Buckle up, click the button and off you go..
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/schutera/DeepDive/HEAD?filepath=%2FDeepDive.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/schutera/Tutorial-5-Generative-Adversarial-Neural-Networks-on-MNIST/HEAD?labpath=GAN-TUT.ipynb)
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/schutera/Tutorial-5-Generative-Adversarial-Neural-Networks-on-MNIST/issues) for a full list of proposed features (and known issues).
 
 
 
