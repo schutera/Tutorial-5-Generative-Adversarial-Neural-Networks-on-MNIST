@@ -76,6 +76,7 @@ Mark Schutera - mark.schutera@gmail.com
 ## Acknowledgments
 - Stefan Bühler
 - Isabel Janez
+
 So long, and thanks for all the fish.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
